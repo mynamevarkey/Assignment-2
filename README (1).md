@@ -49,14 +49,7 @@ pccst501-assignment3/
 | 9 | Mobile IP | Q9 (Figure 9.1) |
 | 10 | Wired vs wireless frame comparison | Q10 (Figure 10.1, comparison table) |
 
-## Deliverables checklist
 
-- [x] PDF report
-- [x] Ethernet frame diagram
-- [ ] Wireshark screenshots (add my own live captures to `screenshots/`)
-- [x] Wireless LAN design
-- [x] Comparison tables
-- [x] README.md
 
 ## How the evidence was produced
 
